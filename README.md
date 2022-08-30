@@ -5,11 +5,13 @@
 ### ***Cписок выполненых мной работ:***
 ### ***Решение тестовых задачи от одной из самых крупных компаний в России (задачи с ограничением времени и памяти)***
 
-[1. Отгадай слово](https://github.com/MsLFox/YandexTests/tree/master/Test1/src) - использовал `BufferedReader`, `FileReader`,  `byte[]`
+[1. Отгадай слово](https://github.com/MsLFox/YandexTests/tree/master/Test1/src) -   `byte[]`, `BufferedReader`, `FileReader`
 
-[2. Поздравляю, вы прошли](https://github.com/MsLFox/YandexTests/tree/master/Test2/src) - использовал `BufferedReader`, `FileReader`, `HashMap`, `ArrayList`, `String[]`, `Stream API`, `Comporator`, интерфейс `Comparable`
+[2. Поздравляю, вы прошли](https://github.com/MsLFox/YandexTests/tree/master/Test2/src) - `HashMap`, `ArrayList`, `String[]`, `Stream API`, `Comporator`, `Comparable`,`BufferedReader`, `FileReader`, 
 
-[3. Ориентация в лабиринте](https://github.com/MsLFox/YandexTests/tree/master/Test4/src) - использовал `рекурсию`
+[3. Ориентация в лабиринте(рекурсия)](https://github.com/MsLFox/YandexTests/tree/master/Test4/src) - `рекурсия`, `BufferedReader`, `FileReader`
+
+[4. В шаге от идеала (скобочная последовательность с индексом)](https://github.com/MsLFox/YandexTests/tree/master/Test5/src) - `Stack`, `FileReader`
 
 ### ***Задания от Нетологии***
 **Synchronized блоки. Использованы** `wait`, `notify`, `sleep`, `lock`.
