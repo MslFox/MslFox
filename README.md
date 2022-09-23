@@ -2,6 +2,7 @@
 |---|:---|
 |![image](images/hh.jpg) | ***Здравствуйте! Приветствую Вас на моей страничке! Меня зовут Михаил Лисин, я начинающий JavaDeveloper. Заканчиваю курс от Нетолигии "Java-разработчик"***
 
+### [***Сертификаты***](#Сертификаты)
 ### ***Cписок выполненых мной работ:***
 ### ***Решение тестовых задачи от одной из самых крупных компаний в России (задачи с ограничением времени и памяти)***
 
@@ -27,3 +28,12 @@
 **Клиент-серверное взаимодействие.** `Blocking и Non-Blocking IO.`
 - [Blocking IO](https://github.com/MsLFox/ClientServerTask1.git)
 - [Non-Blocking IO](https://github.com/MsLFox/ClientServerTask2.git)
+
+<a name="Сертификаты"></a>
+### ***Сертификаты***
+| | |
+|---|---|
+|![image](images/MultiThread_certificate.jpg)|![image](images/certificate_Algo.jpg)|
+|![image](images/certificate_JavaBase.jpg)|![image](images/certificate_JavaCore.jpg)|
+|![image](images/certificate_Git.jpg)|![image](images/certificate_Patterns.jpg)|
+
