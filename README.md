@@ -31,6 +31,7 @@
 
 <a name="Сертификаты"></a>
 ### ***Сертификаты***
+
 | | |
 |---|---|
 |![image](images/MultiThread_certificate.jpg)|![image](images/certificate_Algo.jpg)|
